@@ -1,0 +1,5 @@
+classes = 1
+train = /home/ic1/darknet/logs/DCON2021_SenriAi/EyeTrack/yolo_train.txt
+valid = /home/ic1/darknet/logs/DCON2021_SenriAi/EyeTrack/yolo_test.txt
+names = /home/ic1/darknet/logs/DCON2021_SenriAi/EyeTrack/classes.txt
+backup =/home/ic1/darknet/logs/DCON2021_SenriAi/EyeTrack/backup
